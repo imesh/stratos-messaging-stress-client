@@ -1,4 +1,6 @@
-stratos-messaging-stress-tool
-=============================
+Apache Stratos - Messaging Stress Client
+========================================
 
-Apache Stratos - Messaging Stress Tool
+A simple client for stress testing Stratos messaging component for guaranteed message delivery.
+
+
